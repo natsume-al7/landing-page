@@ -9,21 +9,56 @@ body {
 
 .header {
     display: flex;
+    background-color: #1F2937;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
 }
 
 ul {
     display: flex;
+    font-size: 18px;
+    color: #E5E7EB;
+    list-style-type: none;
+}
+
+button {
+    color: #E5E7EB;
+}
+
+a {
+    text-decoration: none;
 }
 
 .hero {
     display: flex;
     flex: 2;
+    background-color: #1F2937;
+}
+
+.hero-text h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.hero-text .info {
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .body {
     display: flex;
     flex-direction: column;
     flex: 2;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
 }
 
 .cards {
@@ -33,9 +68,29 @@ ul {
 .quote-box {
     display: flex;
     flex: 2;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: light, italic;
+    color: #1F2937;
+}
+
+.hero-button {
+    background-color: #3882F6;
 }
 
 .call-to-action {
     display: flex;
     flex: 1;
+    background-color: #3882F6;
+    color: #E5E7EB;
+}
+
+.cta-button {
+    background-color: #3882F6;
+}
+
+.footer {
+    font-size: 18px;
+    color: #E5E7EB;
+    background-color: #1F2937;
 }
