@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+}
+
+ul {
+    display: flex;
+}
+
+.hero {
+    display: flex;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+}
+
+.cards {
+    display: flex;
+}
+
+.quote-box {
+    display: flex;
+}
+
+.call-to-action {
+    display: flex;
+}
