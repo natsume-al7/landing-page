@@ -53,6 +53,9 @@ a {
     align-items: flex-start;
 }
 
+.hero-text {
+    align-self: center;
+}
 .hero-text h1 {
     font-size: 48px;
     font-weight: bold;
