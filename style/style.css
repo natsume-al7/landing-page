@@ -41,7 +41,7 @@ a {
 
 .hero {
     display: flex;
-    flex: 2;
+    flex: 1;
     background-color: #1F2937;
     padding-left: 20vh;
     padding-right: 20vh;
@@ -61,12 +61,13 @@ a {
 
 .welcome {
     margin-left: auto;
+    align-self: center;
 }
 
 .body {
     display: flex;
     flex-direction: column;
-    flex: 2;
+    flex: 1;
     padding-left: 20vh;
     padding-right: 20vh;
 }
@@ -86,12 +87,13 @@ h2 {
 }
 
 img {
-    max-width: 100%;
+    width: 150px;
+    height: 150px;
 }
 
 .quote-box {
     display: flex;
-    flex: 2;
+    flex: 1;
     background-color: #E5E7EB;
     font-size: 36px;
     font-style: light, italic;
