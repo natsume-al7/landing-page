@@ -4,7 +4,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Roboto', sans-serif;
-    ;
+    min-height: 100vh;
 }
 
 .header {
@@ -17,11 +17,13 @@ ul {
 
 .hero {
     display: flex;
+    flex: 2;
 }
 
 .body {
     display: flex;
     flex-direction: column;
+    flex: 2;
 }
 
 .cards {
@@ -30,8 +32,10 @@ ul {
 
 .quote-box {
     display: flex;
+    flex: 2;
 }
 
 .call-to-action {
     display: flex;
+    flex: 1;
 }
