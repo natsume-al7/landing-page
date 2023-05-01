@@ -12,7 +12,13 @@ body {
     display: flex;
     background-color: #1F2937;
     align-items: center;
-    padding: 10px 20vh;
+    padding: 10px 300px;
+}
+
+h1,
+h2 {
+    margin: 0;
+    padding: 0;
 }
 
 .logo {
@@ -43,8 +49,7 @@ a {
     display: flex;
     flex: 1;
     background-color: #1F2937;
-    padding-left: 20vh;
-    padding-right: 20vh;
+    padding: 200px 300px;
     align-items: flex-start;
 }
 
@@ -68,8 +73,7 @@ a {
     display: flex;
     flex-direction: column;
     flex: 1;
-    padding-left: 20vh;
-    padding-right: 20vh;
+    padding: 75px 300px;
 }
 
 h2 {
@@ -77,6 +81,7 @@ h2 {
     font-weight: bold;
     color: #1F2937;
     text-align: center;
+    padding-bottom: 20px;
 }
 
 .cards {
@@ -105,8 +110,7 @@ img {
     font-size: 36px;
     font-style: light, italic;
     color: #1F2937;
-    padding-left: 20vh;
-    padding-right: 20vh;
+    padding: 150px 300px;
     flex-direction: column;
     justify-content: center;
     text-align: center;
@@ -121,8 +125,8 @@ img {
     flex: 1;
     background-color: #3882F6;
     color: #E5E7EB;
-    padding-left: 20vh;
-    padding-right: 20vh;
+    padding: 100px 300px;
+
 }
 
 .cta-button {
