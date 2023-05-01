@@ -78,6 +78,13 @@ h2 {
     display: flex;
 }
 
+.card {
+}
+
+img {
+    max-width: 100%;
+}
+
 .quote-box {
     display: flex;
     flex: 2;
