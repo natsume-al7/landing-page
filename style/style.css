@@ -12,7 +12,7 @@ body {
     display: flex;
     background-color: #1F2937;
     align-items: center;
-    padding: 10px 100px;
+    padding: 10px 20vh;
 }
 
 .logo {
@@ -43,8 +43,8 @@ a {
     display: flex;
     flex: 2;
     background-color: #1F2937;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 20vh;
+    padding-right: 20vh;
     align-items: flex-start;
 }
 
@@ -63,8 +63,8 @@ a {
     display: flex;
     flex-direction: column;
     flex: 2;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 20vh;
+    padding-right: 20vh;
 }
 
 h2 {
@@ -92,8 +92,8 @@ img {
     font-size: 36px;
     font-style: light, italic;
     color: #1F2937;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 20vh;
+    padding-right: 20vh;
     flex-direction: column;
     justify-content: center;
     text-align: center;
@@ -108,8 +108,8 @@ img {
     flex: 1;
     background-color: #3882F6;
     color: #E5E7EB;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 20vh;
+    padding-right: 20vh;
 }
 
 .cta-button {
