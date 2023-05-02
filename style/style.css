@@ -51,7 +51,7 @@ a {
     display: flex;
     flex: 1;
     background-color: #1F2937;
-    padding: 200px 300px;
+    padding: 100px 300px;
     align-items: flex-start;
 }
 
@@ -72,6 +72,8 @@ a {
 .welcome {
     margin-left: auto;
     align-self: center;
+    width: 500px;
+    height: 500px;
 }
 
 .body {
