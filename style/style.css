@@ -114,13 +114,12 @@ img {
     display: flex;
     flex: 1;
     background-color: #E5E7EB;
-    font-size: 36px;
+    font-size: 30px;
     font-style: light, italic;
     color: #1F2937;
     padding: 150px 300px;
     flex-direction: column;
     justify-content: center;
-    text-align: center;
 }
 
 .hero-button {
@@ -173,4 +172,10 @@ img {
     background-color: #1F2937;
     text-align: center;
     padding: 15px;
+}
+
+.author {
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: auto;
 }
